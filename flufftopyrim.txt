@@ -1,0 +1,48 @@
+Core Game Mechanics of "Flufftopia" 
+
+
+Game Type: texted based rpg 
+
+#### 1. **Character Creation and Customization**
+- **Races:** Players can choose from ten different races, each with unique attributes and abilities.
+- **Classes:** Players can select from predefined classes or create custom classes, defining their character's skills and play style.
+- **Attributes:** Seven attributes (Strength, Intelligence, Willpower, Agility, Speed, Endurance, Personality, and Luck) affect the character's capabilities.
+
+#### 2. **Skills**
+- **Major and Minor Skills:** Players choose major skills that define their character's primary abilities and minor skills that develop more slowly.
+- **Skill Types:** There are 21 skills divided into combat, magic, and stealth categories. Improving skills can unlock new abilities and improve performance in various actions.
+
+#### 3. **Combat System**
+- **Melee Combat:** Players can use a variety of weapons (swords, axes, maces) with different attack patterns.
+- **Ranged Combat:** Bows and arrows allow for long-range attacks.
+- **Magic:** Spells can be cast for offensive, defensive, or utility purposes. Magic includes schools such as Destruction, Restoration, and Illusion.
+- **Blocking and Dodging:** Players can block attacks with shields or weapons and dodge to avoid damage.
+
+#### 4. **Stealth**
+- **Sneaking:** Players can move silently to avoid detection or perform sneak attacks.
+- **Pickpocketing and Lockpicking:** Skills in Security and Sneak allow for stealing items and unlocking doors/chests.
+
+#### 5. **Quests and Exploration**
+- **Main Quest:** A central storyline that progresses the main narrative.
+- **Side Quests:** Numerous optional quests that provide additional storylines and rewards.
+- **Guilds and Factions:** Players can join organizations (e.g., Fighters Guild, Mages Guild, Assassin's Guild) to undertake unique questlines and gain special benefits.
+- **Open World Exploration:** A vast, open world with cities, dungeons, and wilderness to explore.
+
+#### 6. **Inventory and Equipment**
+- **Weapons and Armor:** Various types of weapons and armor with different attributes and enchantments.
+- **Items:** Players can collect potions, ingredients for alchemy, and miscellaneous items.
+- **Weight and Encumbrance:** Characters have a weight limit that affects movement speed and stamina.
+
+#### 7. **Character Progression**
+- **Leveling Up:** Characters gain experience by improving skills. Leveling up increases health, magicka, and stamina.
+- **Perks and Abilities:** As skills improve, characters unlock new perks and abilities that enhance their effectiveness.
+
+#### 8. **Economy and Trading**
+- **Currency:** Gold is used for transactions with merchants.
+- **Bartering:** Players can buy, sell, and trade items with NPCs.
+- **Crafting and Repair:** Players can repair and enchant items and create potions through alchemy.
+
+#### 9. **Dialogue and Interaction**
+- **NPC Interaction:** Players can engage in conversations, persuade, bribe, and intimidate NPCs.
+- **Reputation:** Actions affect the player's reputation with different factions and characters.
+
